@@ -1,0 +1,22 @@
+{
+  "name": "personal-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Timeslot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anismt/Personal-Work.git"
+  },
+  "author": "anis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anismt/Personal-Work/issues"
+  },
+  "homepage": "https://github.com/anismt/Personal-Work#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
