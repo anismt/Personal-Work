@@ -103,17 +103,18 @@ function timesUnavailable(){
 
 */
 
+module.exports = { addOrderToTimeWindow };
 
-console.log(addOrderToTimeWindow(1561497708)) 
-console.log(addOrderToTimeWindow(1561497708)) 
-console.log(addOrderToTimeWindow(1561497708)) 
-
-
-console.log(addOrderToTimeWindow(1561498308)) 
-console.log(addOrderToTimeWindow(1561498308)) 
-console.log(addOrderToTimeWindow(1561498308)) 
-
-console.log(addOrderToTimeWindow(1561498009)) 
+//console.log(addOrderToTimeWindow(1561497708)) 
+//console.log(addOrderToTimeWindow(1561497708)) 
+//console.log(addOrderToTimeWindow(1561497708)) 
+//
+//
+//console.log(addOrderToTimeWindow(1561498308)) 
+//console.log(addOrderToTimeWindow(1561498308)) 
+//console.log(addOrderToTimeWindow(1561498308)) 
+//
+//console.log(addOrderToTimeWindow(1561498009)) 
 
 
 
